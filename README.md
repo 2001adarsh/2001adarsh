@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+mai bahut bewakoof hu!!!!
+ji haa mai hu pagal!!!
 <!--
 **2001adarsh/2001adarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
