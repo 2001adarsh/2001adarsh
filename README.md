@@ -6,11 +6,9 @@ I am Adarsh Singh. I consider myself as a smart worker and determined team playe
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2001adarsh&theme=react&show_icons=true" alt="Adarsh's github stats"/>
 </a>
 
-
 <a href="https://github.com/2001adarsh?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001adarsh&theme=react&layout=compact&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001adarsh&theme=react&layout=compact&show_icons=true" />
 </a>
-
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
