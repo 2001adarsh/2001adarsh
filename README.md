@@ -50,6 +50,18 @@ Outside of work I tinker. Recent interests: Go, Kubernetes internals, MCP server
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/2001adarsh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2001adarshsingh@gmail.com)
 
+---
+
+### <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="24" /> Remember
+
+```
+  _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
+ | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
+ | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
+ |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
+                                         |___/
+```
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=2001adarsh&color=58A6FF&style=flat" alt="Profile views" />
 </p>
