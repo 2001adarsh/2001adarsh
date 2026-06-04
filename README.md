@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Adarsh+Singh;Backend+%2F+Distributed+Systems+Engineer;Kubernetes+%C2%B7+Networking+%C2%B7+Data+Infrastructure" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Adarsh+Singh;Backend+%2F+Distributed+Software+Engineer;K8s+%C2%B7+Networking+%C2%B7+Data+Infrastructure" alt="Intro" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### About
 
-Backend / Distributed Systems engineer at **Pure Storage**, working on **PX-Backup** — Kubernetes-native backup for stateful workloads.
+Backend / Distributed Software engineer at **Pure Storage**, working on **PX-Backup** — Kubernetes-native backup for stateful workloads.
 
 Previously **Sophos** (ZTNA) and **F5** (5G SCP, ZTNA). Distributed systems and the networking & data infrastructure underneath them have been the through-line across roles.
 
